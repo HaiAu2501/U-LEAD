@@ -18,13 +18,13 @@
 
 ## Methods
 
-<table border="1" cellpadding="6" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0" style="width: 100%;">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Light Model</th>
-      <th>Light Training</th>
-      <th>Light Inference</th>
+      <th style="width: 25%;">Category</th>
+      <th style="width: 25%;">Light Model</th>
+      <th style="width: 25%;">Light Training</th>
+      <th style="width: 25%;">Light Inference</th>
     </tr>
   </thead>
   <tbody>
