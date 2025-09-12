@@ -32,6 +32,7 @@
    - Dynamic inference techniques.
 
 3. **Light Model Architectures:**
+
    - Designing compact backbones (e.g., MobileNet, ShuffleNet).
    - Exploring transformer-based models with reduced parameters.
    - Low-rank approximations and tensor decompositions.
