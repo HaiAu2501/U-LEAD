@@ -21,10 +21,10 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%">Category</th>
-      <th width="25%">Light Model</th>
-      <th width="25%">Light Training</th>
-      <th width="25%">Light Inference</th>
+      <th width="19%">Category</th>
+      <th width="27%">Light Model</th>
+      <th width="27%">Light Training</th>
+      <th width="27%">Light Inference</th>
     </tr>
   </thead>
   <tbody>
@@ -32,26 +32,25 @@
       <td>Quantization</td>
       <td>
         <ul>
-          <li><a href="">Post-Training Quantization (PTQ)</a></li>
-          <li><a href="https://arxiv.org/abs/1811.01907" title="A Unified Framework of DNN Weight Pruning and Weight Clustering/Quantization Using ADMM">Weight Clustering</a></li>
-          <li><a href="">Calibration</a></li>
+          <li>Post-Training Quantization (PTQ)</li>
+          <li>Weight Clustering [<a href="https://arxiv.org/abs/1811.01907">paper</a>]</li>
+          <li>Calibration</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href="">Quantization-Aware Training (QAT)</a></li>
-          <li><a href="">Parameterized Clipping Activation (PACT)</a></li>
-          <li><a href="">Learned Step Size Quantization (LSQ)</a></li>
-          <li><a href="">DoReFa</a></li>
+          <li>Quantization-Aware Training (QAT)</li>
+          <li>Parameterized Clipping Activation (PACT) [<a href="https://arxiv.org/abs/1805.06085">paper</a>]</li>
+          <li>Learned Step Size Quantization (LSQ) [<a href="https://arxiv.org/abs/1902.08153">paper</a>]</li>
+          <li>DoReFa [<a href="https://arxiv.org/abs/1606.06160">paper</a>]</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>INT8 Runtime Kernels</li>
-          <li>INT4 Runtime Kernels</li>
-          <li>Mixed Precision Execution</li>
+          <li>INT Runtime [<a href="https://arxiv.org/abs/2101.01321">paper</a>, <a href="https://arxiv.org/abs/1912.12607">paper</a>]</li>
+          <li>Mixed Precision Execution [<a href="">paper</a>]</li>
           <li>TensorRT</li>
-          <li>TVM</li>
+          <li>Tensor Virtual Machine (TVM)</li>
           <li>ONNX Runtime</li>
         </ul>
       </td>
@@ -60,17 +59,17 @@
       <td>Pruning / Sparsity</td>
       <td>
         <ul>
-          <li>Magnitude Pruning</li>
-          <li>Structured Pruning</li>
-          <li>Low-Rank Factorization (SVD, CP, Tucker)</li>
-          <li>Weight Sharing</li>
+          <li>Magnitude Pruning [<a href="https://arxiv.org/abs/1506.02626">paper</a>]</li>
+          <li>Structured Pruning [<a href="https://arxiv.org/abs/1608.08710">paper</a>]</li>
+          <li>Low-Rank Factorization (SVD, CP, Tucker) [<a href="https://arxiv.org/abs/1906.07671">paper</a>]</li>
+          <li>Weight Sharing [<a href="https://arxiv.org/abs/1510.00149">paper</a>]</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Gradual Pruning</li>
-          <li>Lottery Ticket Hypothesis</li>
-          <li>Sparsity Regularization</li>
+          <li>Lottery Ticket Hypothesis [<a href="https://arxiv.org/abs/1803.03635">paper</a>]</li>
+          <li>Sparsity Regularization [<a href="https://arxiv.org/abs/1901.07827">paper</a>]</li>
         </ul>
       </td>
       <td>
@@ -85,26 +84,24 @@
       <td>Architecture Design</td>
       <td>
         <ul>
-          <li>MobileNet</li>
-          <li>ShuffleNet</li>
-          <li>SqueezeNet</li>
-          <li>GhostNet</li>
-          <li>TinyViT</li>
-          <li>MobileViT</li>
-          <li>RepVGG</li>
+          <li>MobileNet [<a href="https://arxiv.org/abs/1704.04861">paper</a>]</li>
+          <li>ShuffleNet [<a href="https://arxiv.org/abs/1707.01083">paper</a>]</li>
+          <li>SqueezeNet [<a href="https://arxiv.org/abs/1602.07360">paper</a>]</li>
+          <li>GhostNet [<a href="https://arxiv.org/abs/1911.11907">paper</a>]</li>
+          <li>TinyViT [<a href="https://arxiv.org/abs/2207.10666">paper</a>]</li>
+          <li>MobileViT [<a href="https://arxiv.org/abs/2110.02178">paper</a>]</li>
+          <li>RepVGG [<a href="https://arxiv.org/abs/2101.03697">paper</a>]</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Slimmable Networks</li>
-          <li>Progressive Width Training</li>
-          <li>Progressive Depth Training</li>
+          <li>Slimmable Networks [<a href="https://arxiv.org/abs/1812.08928">paper</a>]</li>
+          <li>Progressive Width/Depth Training</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Dynamic Depth</li>
-          <li>Dynamic Width</li>
+          <li>Dynamic Width/Depth</li>
           <li>Dynamic Convolution</li>
           <li>Input-Adaptive Routing</li>
         </ul>
@@ -133,9 +130,9 @@
       <td>Neural Architecture Search</td>
       <td>
         <ul>
-          <li>Once-for-All</li>
-          <li>MnasNet</li>
-          <li>MobileNetV3</li>
+          <li>Once-for-All [<a href="https://arxiv.org/abs/1908.09791">paper</a>]</li>
+          <li>MnasNet [<a href="https://arxiv.org/abs/1807.11626">paper</a>]</li>
+          <li>MobileNetV3 [<a href="https://arxiv.org/abs/1905.02244">paper</a>]</li>
           <li>TinyNAS</li>
         </ul>
       </td>
@@ -150,7 +147,7 @@
       <td>Re-parameterization / Fusion</td>
       <td>
         <ul>
-          <li>BatchNorm Folding</li>
+          <li>BatchNorm Folding [<a href="https://arxiv.org/abs/2203.14646">paper</a>]</li>
           <li>Convolution Fusion</li>
           <li>RepVGG Re-parameterization</li>
         </ul>
