@@ -12,19 +12,25 @@
 
   - **Light Inference:** low-latency deployment optimized for real-time applications.
 
-  - **Light Models:** compact backbones designed for constrained hardware.
+  - **Light Model:** compact backbones designed for constrained hardware.
 
 - **Goal:** Provide a sandbox of methods, baselines, and experiments that demonstrate how compact design choices can unlock wider accessibility of computer vision research and applications.
 
 ## Methods
 
-<table border="1" cellpadding="0" cellspacing="0" style="width: 100%;">
+<table>
+  <colgroup>
+    <col width="25%">
+    <col width="25%">
+    <col width="25%">
+    <col width="25%">
+  </colgroup>
   <thead>
     <tr>
-      <th style="width: 25%;">Category</th>
-      <th style="width: 25%;">Light Model</th>
-      <th style="width: 25%;">Light Training</th>
-      <th style="width: 25%;">Light Inference</th>
+      <th>Category</th>
+      <th>Light Model</th>
+      <th>Light Training</th>
+      <th>Light Inference</th>
     </tr>
   </thead>
   <tbody>
