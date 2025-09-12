@@ -32,9 +32,9 @@
       <td>Quantization</td>
       <td>
         <ul>
-          <li>Post-Training Quantization (PTQ)</li>
-          <li>Weight Clustering</li>
-          <li>Calibration</li>
+          <li><a href="">Post-Training Quantization (PTQ)</a></li>
+          <li><a href="https://arxiv.org/abs/1811.01907">Weight Clustering</a></li>
+          <li><a href="">Calibration</a></li>
         </ul>
       </td>
       <td>
