@@ -18,19 +18,13 @@
 
 ## Methods
 
-<table>
-  <colgroup>
-    <col width="25%">
-    <col width="25%">
-    <col width="25%">
-    <col width="25%">
-  </colgroup>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Light Model</th>
-      <th>Light Training</th>
-      <th>Light Inference</th>
+      <th width="25%">Category</th>
+      <th width="25%">Light Model</th>
+      <th width="25%">Light Training</th>
+      <th width="25%">Light Inference</th>
     </tr>
   </thead>
   <tbody>
