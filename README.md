@@ -33,16 +33,16 @@
       <td>
         <ul>
           <li><a href="">Post-Training Quantization (PTQ)</a></li>
-          <li><a href="https://arxiv.org/abs/1811.01907">Weight Clustering</a></li>
+          <li><a href="https://arxiv.org/abs/1811.01907" title="A Unified Framework of DNN Weight Pruning and Weight Clustering/Quantization Using ADMM">Weight Clustering</a></li>
           <li><a href="">Calibration</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Quantization-Aware Training (QAT)</li>
-          <li>PACT</li>
-          <li>LSQ</li>
-          <li>DoReFa</li>
+          <li><a href="">Quantization-Aware Training (QAT)</a></li>
+          <li><a href="">Parameterized Clipping Activation (PACT)</a></li>
+          <li><a href="">Learned Step Size Quantization (LSQ)</a></li>
+          <li><a href="">DoReFa</a></li>
         </ul>
       </td>
       <td>
