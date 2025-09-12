@@ -1,10 +1,10 @@
-# CompCV: Exploring Ultra-Compact Architectures for Computer Vision
+# U-LEAD: Universal Ultra-Lightweight Solutions for Edge Applications & Devices
 
 ## Introduction
 
 - **Motivation:** Deep learning models in computer vision have achieved remarkable accuracy, but often at the cost of heavy computation and memory demands. This creates a barrier for researchers and practitioners with limited resources, and prevents deployment on edge and mobile devices.
 
-- **Vision of CompCV:** We explore ultra-compact architectures that make computer vision more accessible and efficient without sacrificing too much accuracy.
+- **Vision of U-LEAD:** We explore ultra-lightweight solutions that make computer vision more accessible and efficient without sacrificing too much accuracy.
 
 - **Key Focus Areas:**
 
