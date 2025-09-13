@@ -189,7 +189,12 @@
     <tr>
       <td>Advanced Learning Paradigms [Thịnh]</td>
       <td>
-        <ul></ul>
+        <ul>
+          <li>Prototype-Based Heads (Prototypical/Nearest-Centroid)</li>
+          <li>Conditional Normalization (FiLM / Conditional BN)</li>
+          <li>Hypernetwork-Generated Classifier Weights</li>
+          <li>Sparse Mixture-of-Experts (k-active tiny experts)</li>
+        </ul>
       </td>
       <td>
         <ul>
@@ -202,7 +207,10 @@
         </ul>
       </td>
       <td>
-        <ul></ul>
+        <ul>
+          <li>Federated Split Inference</li>
+          <li>Test-Time Adaptation (BN Update / TENT-style)</li>
+        </ul>
       </td>
     </tr>
     <tr>
