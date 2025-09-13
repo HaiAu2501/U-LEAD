@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td>Pruning / Sparsity</td>
+      <td>Pruning & Sparsity</td>
       <td>
         <ul>
           <li>Magnitude Pruning [<a href="https://arxiv.org/abs/1506.02626">paper</a>]</li>
@@ -144,7 +144,7 @@
       </td>
     </tr>
     <tr>
-      <td>Re-parameterization / Fusion</td>
+      <td>Re-parameterization & Fusion</td>
       <td>
         <ul>
           <li>BatchNorm Folding [<a href="https://arxiv.org/abs/2203.14646">paper</a>]</li>
@@ -165,7 +165,7 @@
       </td>
     </tr>
     <tr>
-      <td>Regularization / Efficient Training</td>
+      <td>Regularization & Efficient Training</td>
       <td>
         <ul></ul>
       </td>
@@ -187,7 +187,7 @@
       </td>
     </tr>
     <tr>
-      <td>Data / Federated Learning</td>
+      <td>Advanced Learning Paradigms</td>
       <td>
         <ul></ul>
       </td>
@@ -206,7 +206,7 @@
       </td>
     </tr>
     <tr>
-      <td>Dynamic / Adaptive Inference</td>
+      <td>Dynamic & Adaptive Inference</td>
       <td>
         <ul>
           <li>Branchy Networks</li>
@@ -226,7 +226,7 @@
       </td>
     </tr>
     <tr>
-      <td>Temporal / Streaming</td>
+      <td>Temporal & Streaming</td>
       <td>
         <ul></ul>
       </td>
