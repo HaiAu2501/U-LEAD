@@ -187,7 +187,7 @@
       </td>
     </tr>
     <tr>
-      <td>Data / Federated Learning</td>
+      <td>Data / Federated Learning [Thịnh] </td>
       <td>
         <ul></ul>
       </td>
