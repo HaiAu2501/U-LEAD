@@ -108,7 +108,7 @@
       </td>
     </tr>
     <tr>
-      <td>Knowledge Distillation</td>
+      <td>Knowledge Distillation [Kiệt]</td>
       <td>
         <ul>
           <li>Student Model</li>
