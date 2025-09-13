@@ -187,7 +187,7 @@
       </td>
     </tr>
     <tr>
-      <td>Advanced Learning Paradigms</td>
+      <td>Advanced Learning Paradigms [Thịnh]</td>
       <td>
         <ul></ul>
       </td>
