@@ -81,7 +81,7 @@
       </td>
     </tr>
     <tr>
-      <td>Architecture Design</td>
+      <td>Architecture Design [An]</td>
       <td>
         <ul>
           <li>MobileNet [<a href="https://arxiv.org/abs/1704.04861">paper</a>]</li>
