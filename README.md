@@ -29,7 +29,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Quantization</td>
+      <td>Quantization [Lâm]</td>
       <td>
         <ul>
           <li>Post-Training Quantization (PTQ)</li>
