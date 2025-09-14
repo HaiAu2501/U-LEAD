@@ -127,7 +127,7 @@
       </td>
     </tr>
     <tr>
-      <td>Neural Architecture Search</td>
+      <td>Neural Architecture Search [Tâm]</td>
       <td>
         <ul>
           <li>Once-for-All [<a href="https://arxiv.org/abs/1908.09791">paper</a>]</li>
