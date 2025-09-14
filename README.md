@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td>Pruning & Sparsity</td>
+      <td>Pruning & Sparsity [Hiển]</td>
       <td>
         <ul>
           <li>Magnitude Pruning [<a href="https://arxiv.org/abs/1506.02626">paper</a>]</li>
