@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td>Pruning & Sparsity</td>
+      <td>Pruning & Sparsity [Hiển]</td>
       <td>
         <ul>
           <li>Magnitude Pruning [<a href="https://arxiv.org/abs/1506.02626">paper</a>]</li>
@@ -127,7 +127,7 @@
       </td>
     </tr>
     <tr>
-      <td>Neural Architecture Search</td>
+      <td>Neural Architecture Search [Tâm]</td>
       <td>
         <ul>
           <li>Once-for-All [<a href="https://arxiv.org/abs/1908.09791">paper</a>]</li>
